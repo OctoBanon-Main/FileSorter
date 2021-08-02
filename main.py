@@ -1,7 +1,15 @@
 import os
 import json
 
+DirectoryNames = ['Music','Videos','Photos','Archives','Other']
+
 files = {}
+
+for dir in DirectoryNames:
+    try:
+        os.mkdir(dir)
+    except OSError:
+        os.mkdir(dir + "_moved")
 
 with open("config.json", "r") as read_file:
     files = json.load(read_file)
