@@ -8,4 +8,5 @@ for walk_output in GetFiles:
 
 for file_ext in FilesInDirectory:
     print(os.path.splitext(file_ext)[1])
-    
+
+# гавно    
