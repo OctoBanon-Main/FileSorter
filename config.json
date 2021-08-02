@@ -1,1 +1,15 @@
-{".mp3": "Music", ".py": "Python", ".txt": "Text Files", ".mp4": "Video", ".zip": "Archives", ".rar": "Archives", ".iso": "Other"}
+{".mp3": "Music",
+    ".ogg" : "Music",
+    ".wav": "Music",
+    ".txt": "Documents",
+    ".doc": "Documents",
+    ".docx": "Documents",
+    ".rtf": "Documents",
+    ".pptx": "Documents",
+    ".ppt": "Documents",
+    ".mp4": "Video",
+    ".zip": "Archives",
+    ".rar": "Archives",
+    ".7z": "Archives",
+    ".iso": "Other"
+}
