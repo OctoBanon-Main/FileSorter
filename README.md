@@ -5,4 +5,4 @@ A small utility that sorts your files.
 - [x] Split extensions to determine file type(also thanks @corruptmemry for this!)
 - [x] Move files(and here also thanks @corruptmemry for this!)
 - [ ] Add more file extensions
-- [ ] Create directories(Music,Photos,Videos etc.) if they not existing,otherwise, if directories exist, create directories with suffix "_moved"
+- [x] Create directories(Music,Photos,Videos etc.) if they not existing,otherwise, if directories exist, create directories with suffix "_moved"
