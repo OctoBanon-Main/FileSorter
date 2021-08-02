@@ -10,3 +10,5 @@ A small utility that sorts your files.
 Just drop the main.py and config.json in the folder that need to be sorted and run the script
 
 P.S. Probably I`ll make something like package or executable idk, if i don't be lazy.
+# How can I help?
+Feel free to fork this repo and make a pull request or create an issue, if you encountered an problem!
