@@ -32,5 +32,8 @@
     ".bz2": "Archives",
     ".cab": "Archives",
     ".7z": "Archives",
-    ".iso": "Other"
+    ".iso": "Other",
+    ".exe": "Executable",
+    ".dll": "Executable",
+    ".elf": "Executable"
 }
