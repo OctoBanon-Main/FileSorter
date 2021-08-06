@@ -1,7 +1,7 @@
 import os
 import json
 
-DirectoryNames = ['Music','Videos','Photos','Archives','Other']
+DirectoryNames = ['Audio','Videos','Photos','Archives','Other']
 
 files = {}
 
