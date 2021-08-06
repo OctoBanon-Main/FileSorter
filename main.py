@@ -1,7 +1,10 @@
 import os
 import json
 
-DirectoryNames = ['Audio','Videos','Photos','Archives','Other']
+DirectoryNames = ['Audio','Videos','Photos','Archives','Other','Executable']
+
+skip_executables = False
+asked_for_skip = False
 
 files = {}
 
@@ -24,6 +27,20 @@ for filename in FilesInDirectory:
     if os.path.basename(__file__) != filename:
         extension = os.path.splitext(filename)[1]
         try:
+            if files[extension] == "Executable" and skip_executables == True and asked_for_skip == True:
+                continue
+            elif files[extension] == "Executable" and skip_executables == False and asked_for_skip == True:
+                os.rename(filename, files[extension] + "/" + filename)
+            else:
+                asked_for_skip = True
+                print("WARNING! Found executable file or its component:" + filename + ".Moving Do you want to move executables/components? Y/N")
+                choice = input()
+                if choice == "Y" or choice == "y":
+                    os.rename(filename, files[extension] + "/" + filename)
+                    continue
+                elif choice == "N" or choice == "n":
+                    skip_executables = True
+                    continue
             os.rename(filename, files[extension] + "/" + filename)
         except:
             print(filename + ": failed")
