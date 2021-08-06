@@ -35,5 +35,7 @@
     ".iso": "Other",
     ".exe": "Executable",
     ".dll": "Executable",
-    ".elf": "Executable"
+    ".elf": "Executable",
+    ".bat": "Executable",
+    ".com": "Executable"
 }
