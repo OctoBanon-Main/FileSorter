@@ -1,4 +1,5 @@
-{".mp3": "Audio",
+{
+    ".mp3": "Audio",
     ".aac": "Audio",
     ".m4a": "Audio",
     ".ogg": "Audio",
@@ -36,7 +37,8 @@
     ".bz2": "Archives",
     ".cab": "Archives",
     ".7z": "Archives",
-    ".iso": "Other",
+    ".iso": "Disk Images",
+    ".img": "Disk Images",
     ".exe": "Executable",
     ".dll": "Executable",
     ".elf": "Executable",
