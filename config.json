@@ -33,6 +33,7 @@
     ".png": "Photos",
     ".tiff": "Photos",
     ".gif": "Photos",
+    ".webp": "Photos",
     ".zip": "Archives",
     ".rar": "Archives",
     ".tar": "Archives",
