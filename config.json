@@ -32,6 +32,7 @@
     ".jpeg": "Photos",
     ".png": "Photos",
     ".tiff": "Photos",
+    ".gif": "Photos",
     ".zip": "Archives",
     ".rar": "Archives",
     ".tar": "Archives",
