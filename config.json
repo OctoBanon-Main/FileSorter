@@ -1,6 +1,8 @@
 {
     ".mp3": "Audio",
     ".aac": "Audio",
+    ".ac3:  "Audio",
+    ".m4p": "Audio",
     ".m4a": "Audio",
     ".ogg": "Audio",
     ".wav": "Audio",
