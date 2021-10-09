@@ -1,7 +1,7 @@
 {
     ".mp3": "Audio",
     ".aac": "Audio",
-    ".ac3:  "Audio",
+    ".ac3": "Audio",
     ".m4p": "Audio",
     ".m4a": "Audio",
     ".ogg": "Audio",
@@ -36,6 +36,7 @@
     ".tiff": "Photos",
     ".gif": "Photos",
     ".webp": "Photos",
+    ".ico": "Icons"
     ".zip": "Archives",
     ".rar": "Archives",
     ".tar": "Archives",
