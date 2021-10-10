@@ -34,10 +34,10 @@ for filename in FilesInDirectory:
             else:
                 asked_for_skip = True
                 choice = input("WARNING! Found executable file or its component:" + filename + ". Moving these files can broke executables proper work. Do you want to move executables/components? Y/N: ")
-                if choice in {'y', 'Y'}:
+                if choice in {"y", "Y"}:
                     os.rename(filename, files[extension] + "/" + filename)
                     continue
-                elif choice in {'n', 'N'}:
+                elif choice in {"n", "N"}:
                     skip_executables = True
                     continue
             os.rename(filename, files[extension] + "/" + filename)
