@@ -33,7 +33,7 @@ for filename in FilesInDirectory:
                 os.rename(filename, files[extension] + "/" + filename)
             else:
                 asked_for_skip = True
-                choice = input("WARNING! Found executable file or its component:" + filename + ".Moving these files can broke executables proper work. Do you want to move executables/components? Y/N: ")
+                choice = input("WARNING! Found executable file or its component:" + filename + ". Moving these files can broke executables proper work. Do you want to move executables/components? Y/N: ")
                 if choice in {'y', 'Y'}:
                     os.rename(filename, files[extension] + "/" + filename)
                     continue
