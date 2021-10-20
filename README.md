@@ -6,10 +6,10 @@
 </p>
 
 ### TODO:
-- [x] Scan directory to find files(thanks @corruptmemry for this!)
-- [x] Split extensions to determine file type(also thanks @corruptmemry for this!)
+- [x] Scan directory to find files(thanks [@corruptmemry](https://github.com/corruptmemry) for this!)
+- [x] Split extensions to determine file type(also thanks [@corruptmemry](https://github.com/corruptmemry) for this!)
 - [x] Move files(and here also thanks @corruptmemry for this!)
-- [ ] Add more file extensions (probably will never be checked because there are a LOT of extensions)
+- [ ] Add more file extensions (probably will never be checked because there is a LOT of extensions)
 - [x] Create directories(Music, Photos, Videos etc.) if they not existing,otherwise, if directories exist, create directories with suffix "_moved"
 
 ### How to use this utility?
