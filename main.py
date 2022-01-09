@@ -9,10 +9,10 @@ asked_for_skip = False
 files = {}
 
 for dir in DirectoryNames:
-    try:
+    if not os.path.exists(dir):
         os.mkdir(dir)
-    except OSError:
-        os.mkdir(dir + "_moved")
+    else:
+        continue
 
 with open("config.json", "r") as read_file:
     files = json.load(read_file)
