@@ -18,3 +18,6 @@ P.S. Probably I`ll make something like package or executable idk, if i don't be 
 
 ### How can I help?
 Feel free to fork this repo and make a pull request or create an issue, if you encountered an problem!
+
+### Orignal Developer
+UkrainianVader
