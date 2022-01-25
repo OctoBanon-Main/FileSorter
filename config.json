@@ -60,5 +60,6 @@
     ".bat":     "Executable",
     ".com":     "Executable",
     ".iso":     "Disk Images",
-    ".img":     "Disk Images"
+    ".img":     "Disk Images",
+    ".obj":     "3D Models"
 }
