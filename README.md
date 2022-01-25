@@ -21,3 +21,6 @@ Feel free to fork this repo and make a pull request or create an issue, if you e
 
 ### Orignal Developer
 UkrainianVader
+
+### License
+The project is licensed under the GNU General Public License 3.0.
