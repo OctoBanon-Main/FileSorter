@@ -1,7 +1,7 @@
 import os
 import json
 
-DirectoryNames = ['Audio', 'Videos', 'Photos', 'Icons', 'Archives', 'Other', 'Executable', 'Disk Images']
+DirectoryNames = ['Audio', 'Videos', 'Photos', 'Icons', 'Archives', 'Other', 'Executable', 'Disk Images', '3D Models']
 
 skip_executables = False
 asked_for_skip = False
