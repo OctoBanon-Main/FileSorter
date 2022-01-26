@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/github/stars/Developers-of-Debilos-Empire/FileSorter?style=for-the-badge"/>
   <img src="https://img.shields.io/github/issues/Developers-of-Debilos-Empire/FileSorter?style=for-the-badge"/>
   <img src="https://img.shields.io/github/license/Developers-of-Debilos-Empire/FileSorter?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Developers-of-Debilos-Empire/FileSorter?style=for-the-badge"/>
 </p>
 <br />
 
