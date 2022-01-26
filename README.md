@@ -16,9 +16,9 @@
 <br />
 
 ### TODO:
-- [x] Scan directory to find files(thanks [@corruptmemry](https://github.com/corruptmemry) for this!)
-- [x] Split extensions to determine file type(also thanks [@corruptmemry](https://github.com/corruptmemry) for this!)
-- [x] Move files(and here also thanks [@corruptmemry](https://github.com/corruptmemry) for this!)
+- [x] Scan directory to find files (thanks [@corruptmemry](https://github.com/corruptmemry) for this!)
+- [x] Split extensions to determine file type (also thanks [@corruptmemry](https://github.com/corruptmemry) for this!)
+- [x] Move files (and here also thanks [@corruptmemry](https://github.com/corruptmemry) for this!)
 - [ ] Add more file extensions (probably will never be checked because there is a LOT of extensions)
 
 ### How to use this utility?
