@@ -4,6 +4,15 @@
 <p align="center">
   <h2 align="center">A small utility that sorts your files.</h2>
 </p>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/Developers-of-Debilos-Empire/FileSorter?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/Developers-of-Debilos-Empire/FileSorter?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Developers-of-Debilos-Empire/FileSorter?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/Developers-of-Debilos-Empire/FileSorter?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/Developers-of-Debilos-Empire/FileSorter?style=for-the-badge"/>
+</p>
+<br />
 
 ### TODO:
 - [x] Scan directory to find files(thanks [@corruptmemry](https://github.com/corruptmemry) for this!)
