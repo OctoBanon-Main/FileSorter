@@ -30,8 +30,9 @@ P.S. Probably I`ll make something like package or executable idk, if i don't be 
 Feel free to fork this repo and make a pull request or create an issue, if you encountered an problem!
 
 ### Orignal developers
-corruptmemry
-UkrainianVader
+[@corruptmemry]
+
+[@UkrainianVader]
 
 ### License
 The project is licensed under the GNU General Public License 3.0.
