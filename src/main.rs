@@ -10,7 +10,8 @@ fn create_directories() {
         "Other",
         "Executable",
         "Disk Images",
-        "3D Models"
+        "3D Models",
+        "OSU"
     ];
 
     for directory in &directories {
