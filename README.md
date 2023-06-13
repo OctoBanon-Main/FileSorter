@@ -34,5 +34,5 @@ corruptmemry
 
 UkrainianVader
 
-### License
+### License information
 The project is licensed under the GNU General Public License 3.0.
